@@ -1,0 +1,15 @@
+.Tittle{
+    text-align: center;
+    margin-left: 500px;
+    margin-right: 300px;
+    justify-content: center;
+}
+
+.Text{
+    text-align: left;
+    text-emphasis-color: gray;
+    margin-left: 500px;
+    margin-right: 300px;
+    justify-content: center;
+    color: black;
+}
